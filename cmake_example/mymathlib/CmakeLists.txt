@@ -1,0 +1,7 @@
+# /mymathlib/CmakeList.txt
+
+#static library
+add_library(mymath mysqrt.cpp mysquare.cpp)
+
+#compile option
+target_compile_options(mymath PRIVATE -Wall -Werror)
