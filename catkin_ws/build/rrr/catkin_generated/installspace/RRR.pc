@@ -1,0 +1,8 @@
+prefix=/home/jiyun/ros/catkin_ws/install
+
+Name: RRR
+Description: Description of RRR
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

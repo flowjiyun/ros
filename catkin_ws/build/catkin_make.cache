@@ -1,2 +1,2 @@
-tutorial
--DCATKIN_DEVEL_PREFIX=/home/jiyun/ros/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jiyun/ros/catkin_ws/install -G Unix Makefiles
+pick_n_place:puma560_description:puma560_moveit_config:rrr:tutorial
+-DCATKIN_WHITELIST_PACKAGES=pick_n_place -DCATKIN_DEVEL_PREFIX=/home/jiyun/ros/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jiyun/ros/catkin_ws/install -G Unix Makefiles
